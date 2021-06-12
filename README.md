@@ -1,7 +1,10 @@
 ### Hi there, I'm Krishnaa Satyanarayana 👋
 
 Hi, 
-  I'm Krishnaa(he/him). I am currently pursuing Masters in Computer Software Engineering at San Jose State University, San Jose.
+  I'm Krishnaa. I am currently pursuing Masters in Computer Software Engineering at San Jose State University, San Jose.
+  
+  <img align="right" alt="Krishnaa"
+       src="https://github.com/krishna201294/krishna201294/blob/main/assets/memoji.jpg" height=210px width=200px />
   
   A little more about me
   * Software developer with over 5 years experience
@@ -20,7 +23,7 @@ Hi,
 <h3> Reach out to me on</h3> 
   <a href="https://www.linkedin.com/in/krishnaasa/">
   <img align="left" alt="Krishnaa Satyanarayana | LinkedIn" width="21px"
-       src="https://raw.githubusercontent.com/tarunthota3/tarunthota3/5ace80601e6d3e5777bb9309c3349e9f0dd42c93/assets/linkedin.svg" />
+       src="https://github.com/krishna201294/krishna201294/blob/main/assets/linkedin.svg" />
   </a>
 <!--
 **krishna201294/krishna201294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
