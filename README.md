@@ -1,5 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Krishnaa Satyanarayana 👋
 
+Hi, 
+  I'm Krishnaa(he/him). I am currently pursuing Masters in Computer Software Engineering at San Jose State University, San Jose.
+  
+  A little more about me
+  * Software developer with over 5 years experience
+  * Certified Kubernetes Administrator
+  * I specialise in backend development and automation infrastructure set ups 
+  * Cloud technologies worked with
+    - AWS (Elastic Load balancer, S3, Alexa Skills, SQS, SNS)
+    - Docker
+    - Kubernetes
+    - Openstack
+  * CI/CD tools worked with
+    - Travis
+    - Jenkins 
+    - TFS (Team foundation Services)
+
+<h3> Reach out to me on</h3> 
+  <a href="https://www.linkedin.com/in/krishnaasa/">
+  <img align="left" alt="Krishnaa Satyanarayana | LinkedIn" width="21px"
+       src="https://raw.githubusercontent.com/tarunthota3/tarunthota3/5ace80601e6d3e5777bb9309c3349e9f0dd42c93/assets/linkedin.svg" />
+  </a>
 <!--
 **krishna201294/krishna201294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
