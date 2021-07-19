@@ -9,8 +9,8 @@ Hi,
   A little more about me
   * Software developer with over 5 years experience
   * Certified Kubernetes Administrator
-  * I specialise in backend development and automation infrastructure set ups 
-  * Cloud technologies worked with
+  * I specialise in backend development and automation infrastructure
+  * Cloud technologies familiar with
     - AWS (Elastic Load balancer, S3, Alexa Skills, SQS, SNS)
     - Docker
     - Kubernetes
