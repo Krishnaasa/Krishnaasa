@@ -1,7 +1,7 @@
 ### Hi there, I'm Krishnaa Satyanarayana 👋
 
 Hi, 
-  I'm Krishnaa. I am currently pursuing Masters in Computer Software Engineering at San Jose State University, San Jose.
+  I'm a Software Engineer with interests towards backend engineering and cloud infrastructure development.
   
   <img align="right" alt="Krishnaa"
        src="https://github.com/krishna201294/krishna201294/blob/main/assets/memoji.jpg" height=210px width=200px />
@@ -16,6 +16,7 @@ Hi,
     - Kubernetes
     - Openstack
   * CI/CD tools worked with
+    - Airflow
     - Travis
     - Jenkins 
     - TFS (Team foundation Services)
